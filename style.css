@@ -60,7 +60,7 @@ table{
    th,td{
     border: none;
     height: 30px;
-    padding: 2;
+    padding: 2px;
    }
 
    tr:hover{
